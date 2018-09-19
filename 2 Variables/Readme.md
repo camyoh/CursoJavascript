@@ -25,3 +25,15 @@ No se pueden dejar vacías
 const producto;
 console.log(producto);
 ```
+
+#### Cadena de texto
+Se pueden usar comillas dobles dentro de las comillas sencillas.
+```javascript
+mensaje = 'y entonces dije "buen curso!"';
+console.log(mensaje);
+```
+También puedo agregar comillas sencillas dentro de sencillas pero debo colocar un \ andres de la comilla.
+```javascript
+mensaje = 'y entonces dije \'buen curso!\'';
+console.log(mensaje);
+```
