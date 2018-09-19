@@ -13,8 +13,9 @@ var 99nombre;
 ```
 
 ### let
-No se pueden declarar una variable dos veces.
+No se puede declarar una variable dos veces.
 ```javascript
+let nombre='juan';
 let nombre='juan';
 console.log(nombre);
 ```
@@ -32,7 +33,7 @@ Se pueden usar comillas dobles dentro de las comillas sencillas.
 mensaje = 'y entonces dije "buen curso!"';
 console.log(mensaje);
 ```
-También puedo agregar comillas sencillas dentro de sencillas pero debo colocar un \ andres de la comilla.
+También puedo agregar comillas sencillas dentro de sencillas pero debo colocar un \ antes de la comilla.
 ```javascript
 mensaje = 'y entonces dije \'buen curso!\'';
 console.log(mensaje);
