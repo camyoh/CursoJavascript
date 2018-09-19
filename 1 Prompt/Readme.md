@@ -1,0 +1,1 @@
+Ejemplo usando el prompt
