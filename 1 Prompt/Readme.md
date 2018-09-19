@@ -9,7 +9,7 @@ console.error('') *Sirve para mostrar un signo de alerta en la consola*
 console.warn('') *Sirve para mostrar un signo de alarma en la consola*
 console.table([]) *Sirve para agregar una tabla en consola*
 console.time('')
---
---
---
+...
+...
+...
 console.time('') *Sirve para saber el tiempo de ejecución del código*
